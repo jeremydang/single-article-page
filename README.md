@@ -4,4 +4,4 @@ Quick and short project to demonstrate a responsive and animated way for article
 
 [Demo](https://jeremydang.github.io/single-article-page/)  
 
-![Screenshot](images/Capture.PNG)
+![Screenshot](images/screenshot.PNG)
